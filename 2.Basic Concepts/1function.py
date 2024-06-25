@@ -3,8 +3,9 @@
 def double_it(num):
     result = num *2
     print(result)
+    return result  #jodi ami return na kortam taile fainal value none asto
 
-double_it(89)
+double_it(20)
 double_it(4)
 
 
