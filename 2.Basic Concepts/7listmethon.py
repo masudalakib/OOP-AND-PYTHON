@@ -14,3 +14,9 @@ print(last, numbers)
 
 index = numbers.index(7)
 print(index)
+
+sorted = numbers.sort()
+print(numbers)
+
+numbers.reverse()
+print(numbers)
